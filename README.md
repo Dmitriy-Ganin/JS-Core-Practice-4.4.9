@@ -1,7 +1,6 @@
 # JS-Core-Practice-4.4.9
 Регистрация (Registration)
 
-
 <img width="862" alt="1" src="https://github.com/Dmitriy-Ganin/JS-Core-Practice-4.4.9/assets/132132970/255984eb-1e7d-4b16-917c-bd397eb696c3">
 
 
